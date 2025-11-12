@@ -1,1 +1,1 @@
-# medical-haelth-portal
+# medical-health-portal
